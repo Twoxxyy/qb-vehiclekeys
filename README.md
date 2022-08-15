@@ -1,4 +1,4 @@
-# qb-vehiclekeys
+# qb-vehiclekeys working with qb-lock snippets
 edited by Twoxxyy#0001
 qb-vehiclekeys but working with qb-lock
 
